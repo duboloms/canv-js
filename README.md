@@ -1,1 +1,1 @@
-# canv-js
+# canv.js
